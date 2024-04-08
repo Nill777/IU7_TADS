@@ -1,0 +1,7231 @@
+Rogers
+Treasure Island
+Penguin Random House
+188
+3
+10
+2
+Jones
+Potter and the Goblet of Fire
+Random House Children's Books
+323
+1
+Travel and Tourism
+1
+1
+1800
+Hawkins
+Potter and the Deathly Hallows
+Grove Press
+336
+2
+2
+Choi
+The Chronicles of Narnia
+Grove Weidenfeld
+344
+1
+Entertainment
+0
+0
+1956
+Tolstoy
+A Passage to India
+Zondervan
+305
+1
+Education
+0
+0
+1521
+Hemingway
+Potter and the Prisoner of AzkabanVintage Classics
+Hodder & Stoughton
+168
+1
+Insurance
+0
+0
+1519
+Murphy
+A Portrait of the Artist as a Young Man
+Workman Publishing
+428
+2
+3
+Dumas
+The War of the Worlds
+HarperOne
+813
+1
+Pharmaceutical
+0
+0
+1823
+Dumas
+The Kite Runner
+Zondervan
+674
+3
+3
+2
+Turner
+The Godfather
+Vintage Books
+284
+3
+4
+1
+Gutierrez
+The Iliad
+Liveright Publishing Corporation
+629
+3
+2
+1
+Turgenev
+The Sound and the Fury
+HarperTeen
+440
+2
+2
+Woolf
+The Scarlet Letter
+Penguin Random House
+233
+3
+6
+2
+Wilde
+The Egypt Game
+Grove Atlantic
+839
+2
+3
+Daniel
+The Fellowship of the Ring
+Chronicle Books
+585
+2
+2
+Turner
+The Girl Who Kicked the Hornet's Nest
+University of Chicago Press
+425
+3
+8
+1
+Sanders
+The Hunger Games
+Puffin Books
+263
+1
+Logistics
+0
+0
+1550
+Nabokov
+Potter and the Order of the Phoenix
+Zondervan
+833
+2
+2
+Flores
+Heart of Darkness
+Norton Publishing
+441
+3
+13
+1
+Barnes
+Potter and the Prisoner of AzkabanVintage Classics
+Alfred A. Knopf
+628
+3
+10
+1
+Russell
+Pride and Prejudice
+Avon Books
+682
+3
+4
+1
+Kafka
+The Secret Life of Bees
+Cambridge University Press
+463
+1
+Information Technology
+1
+1
+1926
+Gogol
+Animal Farm
+Houghton Mifflin
+976
+2
+1
+Richardson
+To Kill a Mockingbird
+Pegasus Books
+916
+2
+3
+Larson
+The Iliad
+Abrams Books
+722
+2
+2
+O'Connor
+The Alchemist
+Ecco Press
+536
+3
+16
+1
+Hugo
+To Kill a Mockingbird
+Scribner
+243
+2
+1
+Joyce
+Gone with the Wind
+Perseus Books
+434
+3
+5
+1
+Perez
+Kim
+St. Martin's Press
+853
+1
+Hospitality
+1
+1
+1702
+Morgan
+Of Mice and Men
+Tor Teen
+992
+3
+6
+1
+Camus
+Peyton Place
+Simon Pulse
+943
+2
+1
+Romero
+Sense and Sensibility
+HarperOne
+610
+1
+Fitness
+0
+1
+1751
+Nguyen
+Matilda
+Cambridge University Press
+24
+2
+3
+Camus
+Around the World in Eighty Days
+Grove Weidenfeld
+819
+1
+Construction
+0
+0
+1694
+Wright
+Timeline
+Grove Atlantic
+764
+3
+11
+2
+Scott
+Jules Verne
+Faber & Faber
+584
+2
+3
+Russell
+Do Androids Dream of Electric Sheep?
+Scholastic Corporation
+644
+2
+2
+Jefferson
+The Chronicles of Narnia
+University of Chicago Press
+421
+3
+17
+1
+Herrera
+Potter and the Goblet of Fire
+Bloomsbury Children's Books
+417
+2
+3
+Cassidy
+Heart of Darkness
+Usborne Publishing
+575
+2
+3
+Cooper
+Gone with the Wind
+Ballantine Books
+166
+3
+1
+1
+Reyes
+Anna Karenina
+Ballantine Books
+769
+2
+1
+Dante
+Treasure Island
+Pan Macmillan
+12
+1
+Logistics
+0
+0
+1568
+Martinez
+The Twig
+Viking
+182
+3
+12
+1
+Camus
+The Picture of Dorian Gray
+Grand Central Publishing
+156
+1
+Consulting
+1
+0
+1703
+Scott
+Jules Verne
+Abrams Books
+505
+2
+1
+Cooper
+The Cricket in Times Square
+Hachette Book Group
+769
+1
+Legal
+1
+1
+1782
+Owens
+The Chronicles of Narnia
+Avon Books
+799
+2
+2
+Rogers
+The Alchemist
+Grand Central Publishing
+452
+3
+10
+2
+McGee
+Gone with the Wind
+Houghton Mifflin Harcourt
+619
+1
+Food and Beverage
+0
+1
+1774
+Nelson
+To the Lighthouse
+Penguin Books
+225
+3
+12
+2
+Cassidy
+Angels and Demons
+Hogarth
+294
+1
+Pharmaceutical
+0
+1
+1530
+Smith
+Hatchet
+Quirk Books
+751
+3
+8
+2
+Barnes
+The Godfather
+St. Martin's Griffin
+446
+3
+14
+1
+Twain
+The Picture of Dorian Gray
+Gallery Books
+921
+1
+Sports
+0
+0
+1744
+Cunningham
+The Kite Runner
+Dutton Books
+28
+1
+Information Technology
+1
+0
+1604
+Amir
+The Chronicles of Narnia
+Faber and Faber
+688
+1
+Legal
+0
+0
+1704
+Phillips
+The Jungle Book
+Hogarth
+892
+3
+8
+2
+Tolkien
+The Godfather
+Sourcebooks
+785
+3
+11
+1
+Fitzgerald
+The Old Man and the Sea
+Scholastic Press
+872
+2
+3
+Romero
+The War of the Worlds
+Fourth Estate
+18
+1
+Travel and Tourism
+0
+0
+1917
+Dickens
+The Grapes of Wrath
+Oxford University Press
+93
+2
+3
+Barnes
+One Hundred Years of Solitude
+Harlequin Enterprises
+605
+3
+6
+1
+Rivera
+Heart of Darkness
+Penguin Press
+857
+1
+Consulting
+0
+0
+1703
+Peterson
+The Da Vinci Code
+Dark Horse Comics
+477
+2
+1
+Barr
+Where the Wild Things Are
+Grand Central Publishing
+951
+1
+Logistics
+1
+1
+2002
+Snyder
+The Secret Garden
+Melville House Publishing
+131
+1
+Construction
+1
+0
+1560
+Owens
+The Kite Runner
+Fourth Estate
+553
+1
+Gaming
+0
+1
+2018
+Amir
+The Strange Case of Dr. Jekyll and Mr. Hyde
+HarperCollins Children's Books
+586
+2
+3
+Lawrence
+The Grapes of Wrath
+Chronicle Books
+231
+2
+3
+Swift
+The Scarlet Letter
+Anchor Books
+833
+3
+9
+1
+Kaur
+Dune
+Quirk Books
+573
+2
+1
+Dickens
+Great Expectations
+Soho Press
+440
+2
+2
+Thompson
+The Great Gatsby
+Alfred A. Knopf
+399
+1
+Legal
+0
+1
+1900
+Shakespeare
+The Outsiders
+Sourcebooks
+688
+1
+Insurance
+1
+1
+1967
+Reyes
+Treasure Island
+Oxford University Press
+396
+1
+Food and Beverage
+0
+1
+1755
+Reynolds
+The Adventures of Huckleberry Finn
+Faber and Faber
+394
+3
+6
+2
+Perez
+The Grapes of Wrath
+Roaring Brook Press
+261
+3
+4
+2
+Tolstoy
+The Catcher in the Rye
+Windmill Books
+159
+3
+13
+2
+Reynolds
+The Call of the Wild
+MacLehose Press
+650
+2
+3
+Woolf
+Potter and the Half-Blood Prince
+Del Rey Books
+156
+1
+Logistics
+0
+1
+1998
+Martinez
+Carrie
+HarperOne
+771
+3
+1
+1
+Saramago
+The Time Traveler's Wife
+Harper Voyager
+943
+1
+Technology
+1
+0
+1574
+Cisneros
+Starship Troopers
+Quirk Books
+606
+2
+3
+Balzac
+Tuck Everlasting
+Perseus Books
+819
+1
+Logistics
+0
+0
+1823
+Morgan
+One Hundred Years of Solitude
+Ecco Press
+651
+2
+3
+Jones
+The Secret Garden
+Gallery Books
+735
+2
+2
+Gutierrez
+Potter and the Order of the Phoenix
+Harper Perennial
+918
+3
+4
+1
+May
+The Time Machine
+HarperFestival
+266
+3
+4
+1
+Shelley
+Ender's Game
+Penguin Essentials
+253
+2
+1
+Steinbeck
+The Little Prince
+Allen Lane
+183
+1
+Sports
+0
+1
+1842
+Hawkins
+Candide
+Grove Weidenfeld
+485
+3
+9
+2
+Turner
+Romeo and Juliet
+Penguin Modern Classics
+727
+2
+3
+Lee
+The Invention of Hugo Cabret
+Penguin Classics
+316
+2
+1
+Jefferson
+Persuasion
+HarperCollins Children's Books
+503
+2
+3
+Lopez
+Les Miserables
+Ecco Press
+654
+2
+1
+Poe
+Tuck Everlasting
+Ecco Press
+987
+2
+1
+Stewart
+Candide
+University of Chicago Press
+651
+2
+1
+Miller
+The Cricket in Times Square
+St. Martin's Press
+906
+2
+2
+Scott
+A Clockwork Orange
+William Morrow
+48
+1
+Real Estate
+0
+1
+1615
+Davidson
+Mansfield Park
+Thomas Nelson
+620
+1
+Logistics
+1
+0
+1898
+Reynolds
+Chains
+Mira Books
+410
+2
+3
+Snyder
+The Cricket in Times Square
+HarperOne
+94
+3
+12
+2
+Nguyen
+Great Expectations
+Piatkus
+812
+2
+1
+Reed
+1984
+St. Martin's Griffin
+402
+3
+0
+1
+Wilde
+The Wind in the Willows
+St. James Press
+795
+1
+Construction
+1
+1
+1798
+Barr
+Kim
+Harper Perennial
+612
+2
+2
+Turgenev
+Jane Eyre
+Simon & Schuster
+221
+2
+1
+Lee
+Louisa May Alcott
+Del Rey Books
+393
+1
+Fashion
+1
+1
+1861
+Austen
+The Hunger Games
+Perseus Books
+482
+1
+Technology
+0
+1
+1892
+Choi
+Pride and Prejudice
+Pan Macmillan
+519
+2
+3
+Homer
+Potter and the Prisoner of AzkabanVintage Classics
+Random House Children's Books
+444
+2
+1
+Garcia Marquez
+The Shining
+HarperTeen
+121
+3
+0
+1
+Schmidt
+L. Frank Baum
+Penguin Essentials
+449
+2
+2
+Perez
+Wuthering Heights
+Liveright Publishing Corporation
+606
+3
+15
+1
+Walker
+Pride and Prejudice
+Norton Publishing
+19
+3
+11
+2
+Levine
+Bless Me, Ultima
+Grove Press
+657
+2
+2
+Amir
+Escape from Mr. Lemoncello's Library
+Knopf Doubleday Publishing Group
+894
+3
+14
+2
+Larson
+Great Expectations
+Vintage Classics
+464
+3
+4
+1
+Snyder
+Potter and the Philosopher's Stone
+Picador
+336
+2
+3
+Rice
+The Odyssey
+Simon & Schuster
+161
+1
+Renewable Energy
+0
+1
+1951
+Jones
+The Hobbit
+Headline Publishing Group
+368
+1
+Sports
+0
+0
+1652
+Young
+The Tale of Despereaux
+Scholastic Press
+201
+2
+2
+Conrad
+The War of the Worlds
+Faber and Faber
+636
+1
+Entertainment
+1
+1
+2008
+Ross
+Hyperion
+Liveright Publishing Corporation
+521
+2
+1
+Eliot
+The Color Purple
+Pan Macmillan
+473
+3
+5
+1
+Tolkien
+The Left Hand of Darkness
+Penguin Press
+182
+1
+E-commerce
+0
+0
+2004
+Simon
+To Kill a Mockingbird
+Pegasus Books
+773
+2
+2
+Smith
+The Golden Compass
+Scholastic Corporation
+990
+3
+2
+2
+Sanders
+Les Miserables
+Roaring Brook Press
+507
+2
+3
+Williams
+The Adventures of Tom Sawyer
+Del Rey Books
+475
+2
+3
+Proust
+The Lost World
+Bloomsbury Publishing
+696
+3
+5
+2
+Nguyen
+Anna Karenina
+Penguin Press
+929
+3
+4
+1
+Russell
+The Adventures of Tom Sawyer
+Knopf Doubleday Publishing Group
+364
+3
+12
+2
+Lawrence
+The Left Hand of Darkness
+Roaring Brook Press
+289
+3
+7
+2
+Nelson
+I, Robot
+Faber & Faber
+432
+3
+14
+2
+Garcia Marquez
+Journey to the Center of the Earth
+Faber and Faber
+985
+3
+16
+2
+Robinson
+The Call of the Wild
+Windmill Books
+454
+2
+1
+Mason
+Kim
+MacLehose Press
+595
+3
+2
+1
+Dolan
+Potter and the Goblet of Fire
+Alfred A. Knopf
+52
+3
+5
+2
+Hesse
+Potter and the Order of the Phoenix
+Pegasus Books
+652
+2
+2
+Parker
+The Tale of Despereaux
+HarperFestival
+318
+1
+Consulting
+0
+0
+1551
+Dostoevsky
+Moby-Dick
+Hogarth
+647
+2
+3
+Twain
+Ender's Game
+Usborne Publishing
+471
+2
+2
+Williams
+1984
+Harper Voyager
+990
+2
+2
+Holmes
+War and Peace
+Hogarth
+831
+1
+Sports
+0
+0
+1882
+Conrad
+Oliver Twist
+Alfred A. Knopf
+575
+1
+Transportation
+1
+0
+1611
+McGee
+A Farewell to Arms
+Hachette Book Group
+58
+3
+7
+2
+Oliver
+Congratualtions
+Penguin Books
+312
+1
+Manufacturing
+0
+0
+1966
+Richardson
+Hatchet
+Grand Central Publishing
+196
+2
+2
+Austen
+The Chronicles of Narnia
+MacLehose Press
+513
+1
+Energy
+1
+1
+1742
+Conrad
+Around the World in Eighty Days
+Grand Central Publishing
+332
+1
+E-commerce
+0
+1
+1928
+Dixon
+Mrs. Dalloway
+Norton Publishing
+507
+2
+3
+Torres
+The Godfather
+Ecco Press
+606
+3
+1
+1
+Webb
+Brave New World
+Avon Books
+314
+2
+2
+Goethe
+The Graveyard Book
+Pegasus Books
+16
+3
+10
+1
+Hayes
+The Odyssey
+Grove Atlantic
+970
+3
+3
+2
+Perez
+The Little Prince
+Canongate Books
+901
+1
+Gaming
+0
+1
+1907
+Plato
+Sense and Sensibility
+Ecco Press
+512
+1
+Real Estate
+1
+0
+1976
+Young
+Prey
+Dark Horse Comics
+790
+2
+1
+Aristotle
+Potter and the Sorcerer's Stone
+HarperTeen
+104
+3
+14
+2
+Scott
+Animal Farm
+Tor Books
+557
+1
+Telecom
+0
+1
+1785
+Kaur
+Ella Enchanted
+Ecco Press
+655
+1
+Legal
+0
+0
+1935
+Roberts
+The Da Vinci Code
+Gallery Books
+998
+2
+3
+Melville
+The Sound and the Fury
+Penguin Random House
+627
+3
+0
+1
+Hall
+The Alchemist
+HarperCollins Children's Books
+968
+3
+13
+2
+Rivera
+Oliver Twist
+Bloomsbury Academic
+113
+1
+Advertising
+1
+0
+1578
+Hawkins
+Oliver Twist
+Gollancz
+397
+2
+2
+Larson
+Potter and the Philosopher's Stone
+Sourcebooks
+842
+3
+8
+1
+Walker
+Breakfast at Tiffany's
+Perseus Books
+761
+3
+8
+1
+Torres
+Fahrenheit 451
+Tor Teen
+187
+1
+Entertainment
+1
+1
+1894
+Kafka
+Les Miserables
+Canongate Books
+81
+1
+Education
+1
+0
+1767
+Mann
+The Adventures of Sherlock Holmes
+Vintage Books
+207
+3
+1
+2
+Eliot
+Great Expectations
+Soho Press
+191
+3
+5
+1
+Homer
+The BFG
+Mira Books
+675
+2
+3
+Russell
+The Shining
+Piatkus
+838
+1
+Gaming
+0
+1
+1715
+Snyder
+Anne of Green Gables
+Vintage Books
+434
+3
+9
+2
+Woolf
+Alice's Adventures in Wonderland
+Roaring Brook Press
+920
+1
+Real Estate
+1
+1
+1743
+Gutierrez
+The Giver
+Del Rey Books
+462
+3
+3
+1
+Reed
+1984
+Del Rey Books
+416
+3
+3
+1
+Sanchez
+Charlotte's Web
+Scholastic Corporation
+203
+3
+10
+2
+Levine
+Jane Eyre
+Grand Central Publishing
+641
+2
+2
+Dumas
+A Portrait of the Artist as a Young Man
+Windmill Books
+727
+1
+Education
+0
+1
+1510
+Hernandez
+The Little Prince
+Windmill Books
+458
+3
+14
+2
+Jefferson
+A Midsummer Night's Dream
+MacLehose Press
+603
+2
+3
+Parker
+The Adventures of Tom Sawyer
+Houghton Mifflin
+394
+1
+Insurance
+1
+1
+1618
+Morgan
+The Old Man and the Sea
+Pearson Education
+1000
+1
+Transportation
+1
+0
+1950
+Gaiman
+Alice in Wonderland
+Penguin Random House
+336
+2
+3
+Dixon
+Next
+Cambridge University Press
+490
+2
+1
+Turgenev
+To Kill a Mockingbird
+Grove Atlantic
+867
+1
+Hospitality
+0
+1
+1788
+Shakespeare
+Bless Me, Ultima
+MacLehose Press
+456
+2
+1
+Kafka
+Do Androids Dream of Electric Sheep?
+Penguin Random House
+437
+2
+2
+Powell
+The Da Vinci Code
+Disney Publishing Worldwide
+427
+2
+2
+Owens
+Animal Farm
+University of Chicago Press
+35
+1
+Information Technology
+1
+0
+1545
+Mann
+All Quiet on the Western Front
+Piatkus
+747
+1
+Travel and Tourism
+0
+0
+1894
+Tolkien
+Brave New World
+Allen Lane
+641
+1
+Retail
+0
+0
+1502
+Turner
+Misery
+Tor Teen
+35
+3
+10
+2
+Simon
+Northanger Abbey
+Perseus Books
+901
+1
+Telecom
+1
+1
+1642
+Morales
+Walk Two Moons
+Grand Central Publishing
+561
+2
+1
+Proust
+The Kite Runner
+Usborne Publishing
+493
+3
+5
+2
+Cooper
+Hyperion
+Quercus
+776
+3
+9
+1
+Choi
+Snow Crash
+HarperCollins Children's Books
+834
+1
+Education
+0
+1
+2022
+Wood
+The Scarlet Letter
+Penguin Classics
+397
+2
+3
+Ross
+Tuck Everlasting
+Mira Books
+525
+2
+3
+Lopez
+The Giver
+Thomas Nelson
+537
+3
+11
+2
+White
+Jane Eyre
+Liveright Publishing Corporation
+493
+2
+1
+Ward
+Snow Crash
+Scholastic Press
+897
+2
+3
+Murakami
+The Twig
+Grove Weidenfeld
+958
+1
+E-commerce
+1
+0
+1951
+O'Connor
+Oliver Twist
+Penguin Press
+416
+2
+3
+Wilde
+Sense and Sensibility
+Bloomsbury Academic
+522
+1
+Pharmaceutical
+1
+0
+1690
+Roberts
+Brave New World
+Piatkus
+2
+1
+Telecom
+0
+0
+1535
+Proust
+Journey to the Center of the Earth
+Harper Perennial
+211
+2
+1
+Swift
+Memoirs of a Geisha
+Tor Books
+798
+1
+Transportation
+0
+0
+1813
+Turgenev
+Neuromancer
+Harper Perennial
+61
+2
+1
+Saramago
+The Three Musketeers
+Faber & Faber
+183
+1
+Biotechnology
+1
+0
+1767
+Wilde
+Of Mice and Men
+Houghton Mifflin Harcourt
+344
+3
+7
+1
+Torres
+The Girl with the Dragon Tattoo
+Sourcebooks
+182
+3
+18
+1
+White
+The Egypt Game
+Bloomsbury Publishing
+416
+3
+16
+1
+Joyce
+Potter and the Chamber of Secrets
+Usborne Publishing
+846
+2
+3
+White
+Timeline
+Knopf Doubleday Publishing Group
+747
+2
+2
+Dumas
+Moby-Dick
+Headline Publishing Group
+359
+1
+Real Estate
+0
+0
+1890
+Roberts
+The Adventures of Huckleberry Finn
+Bloomsbury Publishing
+375
+3
+2
+2
+Walker
+Shiloh
+St. James Press
+222
+2
+3
+Parker
+The Scarlet Letter
+Wiley
+281
+1
+Education
+1
+1
+1991
+Kim
+Chains
+Little, Brown and Company
+643
+2
+3
+Kaur
+Chains
+HarperOne
+369
+1
+Aerospace
+1
+1
+1568
+Swift
+One Hundred Years of Solitude
+Penguin Classics
+602
+1
+Hospitality
+1
+1
+1620
+Barr
+The Metamorphosis
+Soho Press
+658
+1
+Telecommunications
+1
+1
+1972
+Nabokov
+James and the Giant Peach
+Wiley
+939
+2
+1
+Dixon
+Congratualtions
+Bloomsbury Publishing
+127
+2
+2
+Hugo
+The Adventures of Tom Sawyer
+St. Martin's Press
+347
+3
+11
+2
+Mason
+Anne of Green Gables
+Hachette Book Group
+254
+3
+8
+2
+Gogol
+The Left Hand of Darkness
+Quirk Books
+893
+3
+9
+2
+Tolkien
+Potter and the Goblet of Fire
+Dutton Books
+295
+2
+2
+Lawrence
+Mrs. Dalloway
+William Morrow
+545
+2
+2
+Miller
+The Divine Comedy
+Roaring Brook Press
+950
+1
+Logistics
+0
+0
+1550
+White
+James and the Giant Peach
+Grove Press
+289
+2
+2
+Jackson
+Alice's Adventures in Wonderland
+Roaring Brook Press
+718
+2
+1
+Jones
+Ender's Game
+Usborne Publishing
+367
+2
+1
+Anders
+The Lord of the Rings
+Tor Teen
+520
+2
+1
+Wilde
+A Tale of Two Cities
+Grove Atlantic
+236
+1
+Gaming
+1
+1
+1610
+Cisneros
+Snow Crash
+Thomas Nelson
+411
+1
+E-commerce
+0
+0
+1859
+Orwell
+Jane Austen
+Allen Lane
+155
+2
+2
+Romero
+Potter and the Order of the Phoenix
+Scholastic Press
+998
+3
+4
+1
+Davidson
+Treasure Island
+Tor Books
+559
+2
+3
+Robinson
+Matilda
+Abrams Books
+532
+3
+14
+1
+Murakami
+Hamlet
+Vintage Books
+758
+3
+6
+2
+Lawrence
+Tuck Everlasting
+Soho Press
+522
+2
+2
+Aristotle
+The Scarlet Letter
+Zondervan
+619
+2
+1
+Hesse
+Next
+Canongate
+361
+3
+3
+2
+Hugo
+The Divine Comedy
+Verso Books
+410
+1
+Legal
+1
+0
+1819
+Smith
+Ender's Game
+Thomas Nelson
+391
+1
+Biotechnology
+1
+1
+1664
+Rodriguez
+Animal Farm
+Usborne Publishing
+692
+2
+3
+Conrad
+2001: A Space Odyssey
+Viking Press
+226
+1
+Consulting
+1
+1
+1693
+Nabokov
+Potter and the Goblet of Fire
+Picador
+779
+1
+Insurance
+0
+1
+1840
+Barnes
+The Lightning Thief
+Grand Central Publishing
+858
+1
+Construction
+1
+0
+1939
+Conrad
+Potter and the Chamber of Secrets
+Faber and Faber
+446
+3
+4
+1
+Steinbeck
+Congratualtions
+Cambridge University Press
+432
+3
+7
+1
+Wright
+Neuromancer
+Scholastic Corporation
+268
+1
+Entertainment
+0
+0
+1681
+Rogers
+Slaughterhouse-Five
+Thomas Nelson
+530
+3
+2
+1
+Richardson
+Mrs. Dalloway
+Usborne Publishing
+277
+3
+5
+2
+Nelson
+Tuck Everlasting
+Verso Books
+584
+3
+18
+2
+Dickens
+To Kill a Mockingbird
+Hogarth Press
+742
+2
+3
+Jackson
+American Gods
+HarperTeen
+979
+3
+9
+2
+Turgenev
+Bud, Not Buddy
+St. Martin's Press
+218
+3
+15
+2
+Cisneros
+The Adventures of Huckleberry Finn
+Wiley
+451
+2
+2
+Schmidt
+The Tale of Peter Rabbit
+Vintage Books
+748
+2
+3
+Dolan
+The Scarlet Letter
+Quercus
+730
+2
+1
+Pushkin
+James and the Giant Peach
+Thomas Nelson
+359
+3
+12
+2
+Daniel
+The Diary of a Young Girl
+Liveright Publishing Corporation
+299
+2
+2
+Woolf
+A Midsummer Night's Dream
+Hogarth
+763
+3
+12
+1
+Dumas
+The Tell-Tale Heart
+Pearson Education
+704
+1
+Renewable Energy
+0
+1
+1723
+Peterson
+Jane Austen
+Penguin Books
+203
+3
+4
+2
+Fitzgerald
+The Secret Garden
+Wiley
+424
+2
+1
+Phillips
+Around the World in Eighty Days
+Workman Publishing
+375
+1
+Real Estate
+0
+1
+1964
+Perry
+Potter and the Philosopher's Stone
+Penguin Classics
+704
+2
+3
+Sharp
+Oliver Twist
+Simon Pulse
+764
+1
+Logistics
+1
+0
+1538
+Reyes
+Catch-22
+Roaring Brook Press
+694
+3
+15
+2
+Saramago
+Gone with the Wind
+Workman Publishing
+229
+3
+13
+1
+Peterson
+Twenty Thousand Leagues Under the Sea
+Simon Pulse
+28
+1
+Media
+0
+0
+1756
+Smith
+The Westing Game
+Scholastic Corporation
+261
+1
+Travel and Tourism
+0
+1
+1907
+Twain
+The Scarlet Letter
+Scribner
+922
+3
+11
+1
+Lopez
+The Time Machine
+Simon Pulse
+663
+1
+Education
+1
+0
+1896
+Taylor
+Candide
+Hogarth Press
+765
+2
+1
+Perez
+The Martian Chronicles
+Grove Atlantic
+260
+3
+1
+1
+Simon
+Around the World in Eighty Days
+HarperFestival
+637
+3
+2
+1
+Wilde
+Potter and the Prisoner of AzkabanVintage Classics
+Tor Books
+947
+2
+1
+Dante
+Do Androids Dream of Electric Sheep?
+Faber & Faber
+911
+3
+9
+2
+Sullivan
+Flatland
+Windmill Books
+281
+1
+Information Technology
+0
+1
+1789
+Gutierrez
+Potter and the Goblet of Fire
+Knopf Doubleday Publishing Group
+469
+1
+Renewable Energy
+0
+1
+1778
+Cunningham
+The Stand
+Pegasus Books
+866
+2
+1
+Verne
+The Handmaid's Tale
+HarperCollins
+792
+1
+Healthcare
+0
+0
+1723
+Kundera
+Where the Red Fern Grows
+Penguin Press
+967
+3
+7
+2
+Kafka
+The Outsiders
+Scholastic Corporation
+987
+1
+Information Technology
+1
+0
+1874
+Romero
+Flatland
+Vintage Classics
+749
+1
+Telecommunications
+0
+1
+1577
+Wilson
+Dracula
+Mariner Books
+175
+2
+1
+Flores
+The Adventures of Tom Sawyer
+Harper Perennial
+821
+3
+8
+1
+Goethe
+The Metamorphosis
+Roaring Brook Press
+624
+2
+2
+Neal
+Coraline
+Faber & Faber
+482
+1
+Fashion
+1
+1
+2016
+McCarthy
+Animal Farm
+Canongate Books
+693
+3
+4
+2
+Herrera
+Revolutionary Road
+Usborne Publishing
+567
+2
+1
+Williams
+Les Miserables
+Hachette Book Group
+24
+3
+7
+1
+Sanders
+Hamlet
+Headline Publishing Group
+790
+1
+Media
+0
+1
+1542
+Steinbeck
+Louisa May Alcott
+Bloomsbury Children's Books
+230
+2
+3
+Nabokov
+Carrie
+Macmillan Publishers
+97
+1
+Fitness
+1
+0
+1893
+Rice
+The Alchemist
+Piatkus
+11
+2
+3
+Myers
+Potter and the Half-Blood Prince
+St. Martin's Press
+386
+3
+14
+2
+Young
+The Count of Monte Cristo
+Little, Brown and Company
+978
+3
+10
+1
+Owens
+The Stand
+HarperCollins Children's Books
+427
+2
+1
+Reynolds
+The Mote in God's Eye
+University of Chicago Press
+827
+2
+2
+Norton
+The Sun Also Rises
+Hogarth
+85
+1
+Travel and Tourism
+0
+0
+1852
+Hall
+The Little Prince
+Pearson Education
+530
+3
+2
+1
+Anders
+The Giver
+William Morrow
+890
+2
+1
+Rice
+Ulysses
+Penguin Classics
+598
+2
+1
+Camus
+Potter and the Half-Blood Prince
+Pan Macmillan
+751
+1
+Biotechnology
+0
+0
+1671
+Reed
+Coraline
+Liveright Publishing Corporation
+504
+2
+1
+Reed
+Sense and Sensibility
+Soho Press
+65
+3
+8
+1
+Woolf
+Matilda
+Thomas Nelson
+928
+2
+2
+Drake
+The Iliad
+Mira Books
+939
+3
+5
+2
+Wilde
+To Kill a Mockingbird
+Verso Books
+336
+2
+1
+O'Connor
+Moby-Dick
+Scholastic Corporation
+641
+3
+16
+2
+Miller
+Emma
+Faber and Faber
+892
+2
+3
+Ross
+The Time Traveler's Wife
+Abrams Books
+244
+2
+3
+Dickens
+Mark Twain
+Grove Atlantic
+470
+1
+Music
+0
+1
+1930
+Dumas
+One Hundred Years of Solitude
+St. James Press
+738
+2
+1
+Robinson
+Prey
+University of Chicago Press
+151
+3
+5
+2
+Stendhal
+Ulysses
+Scribner
+154
+2
+3
+Poe
+The Adventures of Sherlock Holmes
+HarperTeen
+370
+3
+17
+2
+Romero
+Alice's Adventures in Wonderland
+Wiley
+931
+3
+10
+2
+Dixon
+The Time Traveler's Wife
+Macmillan Publishers
+861
+3
+12
+1
+Scott
+The Wind in the Willows
+Chronicle Books
+239
+2
+1
+Hall
+Animal Farm
+HarperCollins Children's Books
+732
+2
+3
+Tolstoy
+The Shining
+Bloomsbury Academic
+149
+3
+10
+2
+Wilde
+Catch-22
+Grove Press
+530
+3
+12
+2
+Cooper
+The Girl Who Kicked the Hornet's Nest
+Grove Atlantic
+97
+2
+3
+Whitman
+The Girl with the Dragon Tattoo
+Vintage Books
+229
+2
+1
+Dickens
+The Courage of Sarah Noble
+Penguin Essentials
+74
+3
+18
+1
+Sharp
+The Giver
+HarperFestival
+633
+2
+1
+Cunningham
+The Stand
+Grove Weidenfeld
+74
+3
+8
+1
+Watson
+A Game of Thrones
+Zondervan
+850
+1
+Manufacturing
+1
+0
+1859
+Thompson
+The Cricket in Times Square
+Gollancz
+967
+3
+16
+1
+Turner
+Around the World in Eighty Days
+Alfred A. Knopf
+855
+1
+Education
+1
+1
+1764
+Rogers
+Potter and the Order of the Phoenix
+Gallery Books
+441
+3
+16
+1
+Hunt
+Potter and the Deathly Hallows
+Scholastic Corporation
+71
+3
+1
+2
+Hudson
+The Grapes of Wrath
+Grand Central Publishing
+293
+1
+Telecommunications
+0
+1
+1575
+Lee
+The Catcher in the Rye
+Grand Central Publishing
+493
+1
+Insurance
+1
+0
+1731
+Goethe
+The Hobbit
+Quercus
+137
+2
+3
+Taylor
+Bridge to Terabithia
+Zondervan
+582
+2
+2
+Jefferson
+The Lord of the Rings
+Roaring Brook Press
+485
+1
+Fashion
+0
+1
+1847
+Cassidy
+The Tale of Despereaux
+HarperCollins
+972
+2
+3
+Conrad
+The Da Vinci Code
+Houghton Mifflin
+567
+2
+2
+Hayes
+A Christmas Carol
+Liveright Publishing Corporation
+995
+2
+1
+Austen
+Roll of Thunder, Hear My Cry
+Verso Books
+743
+3
+12
+1
+Spencer
+Potter and the Chamber of Secrets
+Tor Teen
+64
+3
+17
+2
+Whitman
+Potter and the Prisoner of AzkabanVintage Classics
+Pearson Education
+608
+1
+Gaming
+1
+1
+1736
+Gutierrez
+The Cricket in Times Square
+Little, Brown and Company
+7
+3
+15
+1
+Spencer
+The Little Prince
+Tor Books
+729
+1
+Aerospace
+1
+0
+1832
+Flores
+The Lord of the Rings
+Simon Pulse
+280
+1
+Information Technology
+1
+1
+1800
+Romero
+The Picture of Dorian Gray
+Allen Lane
+497
+3
+17
+2
+Kundera
+Potter and the Philosopher's Stone
+Grove Atlantic
+240
+3
+18
+2
+Schmidt
+The Lord of the Rings
+Penguin Books
+214
+1
+Gaming
+0
+1
+1783
+Nelson
+The Tale of Peter Rabbit
+Ballantine Books
+541
+3
+0
+1
+Hugo
+Potter and the Order of the Phoenix
+Knopf Doubleday Publishing Group
+313
+2
+1
+London
+Frankenstein
+Houghton Mifflin Harcourt
+362
+2
+3
+Parker
+The Hobbit
+Verso Books
+75
+2
+1
+Phillips
+Bud, Not Buddy
+Tor Books
+844
+1
+Education
+1
+1
+1882
+Rivera
+Around the World in Eighty Days
+Windmill Books
+959
+2
+1
+Kundera
+Peyton Place
+Picador
+675
+1
+Logistics
+1
+1
+1527
+Wells
+Great Expectations
+Quercus
+126
+1
+Gaming
+1
+0
+1722
+Barnes
+The Mote in God's Eye
+Mariner Books
+94
+2
+1
+Drake
+A Thousand Splendid Suns
+Roaring Brook Press
+989
+3
+10
+2
+Amir
+Misery
+Little, Brown and Company
+742
+1
+Manufacturing
+1
+1
+1554
+Cervantes
+Potter and the Prisoner of AzkabanVintage Classics
+Penguin Classics
+626
+2
+1
+Russell
+The Egypt Game
+Canongate
+207
+2
+3
+Fitzgerald
+The Grapes of Wrath
+HarperOne
+661
+3
+5
+1
+Austen
+Moby-Dick
+St. Martin's Griffin
+878
+1
+Travel and Tourism
+1
+0
+1844
+Austen
+Pride and Prejudice
+Ecco Press
+865
+2
+1
+Barr
+The Egypt Game
+Ballantine Books
+689
+2
+3
+Dostoevsky
+The Sun Also Rises
+Dutton Books
+472
+2
+1
+Levine
+The Princess Bride
+Random House Children's Books
+635
+2
+2
+Wright
+Frankenstein
+Harper Perennial
+860
+2
+3
+Hugo
+The Time Traveler's Wife
+Faber and Faber
+873
+2
+2
+Richardson
+The Alchemist
+Vintage Classics
+430
+1
+Entertainment
+0
+1
+1985
+Homer
+Roll of Thunder, Hear My Cry
+Dutton Books
+438
+1
+Real Estate
+1
+0
+1523
+Steinbeck
+From the Mixed-Up Files of Mrs. Basil E. Frankweiler
+University of Chicago Press
+368
+3
+14
+1
+Barr
+The Call of the Wild
+Canongate
+1
+1
+Sports
+1
+1
+1810
+Aristotle
+Sense and Sensibility
+Avon Books
+194
+2
+2
+Owens
+Potter and the Half-Blood Prince
+Macmillan Publishers
+192
+2
+2
+Simon
+Anne of Green Gables
+Pan Macmillan
+908
+2
+3
+Manning
+Potter and the Sorcerer's Stone
+Bloomsbury Children's Books
+265
+1
+Hospitality
+1
+0
+1917
+Torres
+Potter and the Prisoner of AzkabanVintage Classics
+Bloomsbury Academic
+720
+1
+Energy
+1
+1
+1862
+Goethe
+The Odyssey
+Bloomsbury Academic
+238
+2
+2
+Myers
+James and the Giant Peach
+Avon Books
+374
+1
+Renewable Energy
+1
+0
+1897
+Owens
+A Midsummer Night's Dream
+Cambridge University Press
+900
+3
+17
+1
+Austen
+The Year of Living Dangerously
+Penguin Random House
+610
+3
+8
+1
+Dickens
+1984
+Picador
+290
+2
+2
+Murakami
+Potter and the Philosopher's Stone
+Houghton Mifflin Harcourt
+305
+2
+3
+Spencer
+Anna Karenina
+Sourcebooks
+576
+1
+Transportation
+1
+1
+1632
+Eliot
+Gateway
+Dark Horse Comics
+89
+1
+Insurance
+1
+1
+1640
+Thomas
+The Divine Comedy
+Hogarth
+303
+2
+1
+Romero
+Coraline
+Gallery Books
+48
+2
+3
+Ross
+Jane Eyre
+Tor Books
+734
+2
+3
+Fitzgerald
+Jane Austen
+Scribner
+541
+3
+12
+2
+Murphy
+Mark Twain
+Harlequin Enterprises
+266
+3
+6
+2
+Russell
+Animal Farm
+Dark Horse Comics
+459
+1
+Technology
+1
+1
+1714
+Amir
+Hyperion
+Penguin Classics
+161
+3
+8
+1
+Lee
+James and the Giant Peach
+University of Chicago Press
+541
+2
+1
+Morales
+The Wind in the Willows
+Pearson Education
+993
+2
+3
+Simon
+Frankenstein
+William Morrow
+605
+1
+Sports
+1
+1
+1804
+Dostoevsky
+The Trial
+Mira Books
+586
+3
+9
+1
+Saramago
+The Fault in Our Stars
+Macmillan Publishers
+558
+1
+Finance
+1
+1
+2000
+Kundera
+Potter and the Chamber of Secrets
+Viking Press
+937
+3
+5
+1
+Tolkien
+One Hundred Years of Solitude
+Viking
+148
+1
+Gaming
+1
+1
+1506
+Smith
+The Andromeda Strain
+Pan Macmillan
+376
+1
+Telecommunications
+1
+1
+1523
+Mann
+Potter and the Chamber of Secrets
+Scholastic Corporation
+954
+2
+1
+Oliver
+The Alchemist
+HarperCollins
+945
+1
+Entertainment
+0
+0
+1719
+Morgan
+A Clockwork Orange
+Vintage Classics
+114
+1
+Aerospace
+0
+0
+1826
+Dickens
+Les Miserables
+Mira Books
+726
+2
+1
+Hunt
+Fifty Shades of Grey
+Allen Lane
+81
+1
+Advertising
+1
+1
+1690
+Taylor
+Treasure Island
+Wiley
+230
+3
+13
+2
+Schmidt
+The Great Gatsby
+Sourcebooks
+415
+2
+1
+Hernandez
+Dune
+Scribner
+271
+3
+10
+2
+Turner
+Fifty Shades of Grey
+University of Chicago Press
+858
+1
+Information Technology
+0
+0
+1960
+Stendhal
+Jane Eyre
+Houghton Mifflin Harcourt
+785
+1
+Media
+1
+0
+1910
+Sanders
+American Gods
+Harper Voyager
+48
+1
+Real Estate
+1
+0
+1711
+Mann
+James and the Giant Peach
+Penguin Press
+179
+3
+14
+1
+Maupassant
+The Secret Garden
+St. James Press
+459
+2
+3
+Garcia Marquez
+The Andromeda Strain
+Tor Teen
+228
+3
+18
+2
+Roberts
+The Iliad
+Piatkus
+977
+3
+14
+1
+Cunningham
+Persuasion
+Roaring Brook Press
+132
+1
+Fashion
+1
+0
+1961
+Joyce
+Jules Verne
+Houghton Mifflin Harcourt
+560
+2
+1
+Schmidt
+Mansfield Park
+Headline Publishing Group
+297
+3
+15
+2
+Wilde
+Revolutionary Road
+Workman Publishing
+58
+2
+2
+Peterson
+Catch-22
+Del Rey Books
+642
+1
+Legal
+1
+0
+1735
+Hall
+The Invention of Hugo Cabret
+Penguin Essentials
+81
+1
+Telecommunications
+1
+0
+1511
+Watson
+A Christmas Carol
+Cambridge University Press
+975
+2
+3
+Proust
+The Girl Who Kicked the Hornet's Nest
+Bloomsbury Publishing
+271
+1
+Consulting
+1
+1
+1889
+Austen
+Carrie
+Penguin Essentials
+888
+3
+13
+1
+May
+Emma
+Dark Horse Comics
+699
+1
+Finance
+0
+0
+1843
+Shakespeare
+The Metamorphosis
+Del Rey Books
+638
+1
+Telecom
+0
+1
+1871
+O'Connor
+The Picture of Dorian Gray
+Pearson Education
+419
+1
+Transportation
+0
+1
+1639
+Owens
+Walk Two Moons
+Penguin Modern Classics
+872
+2
+2
+Melville
+The Da Vinci Code
+Pan Macmillan
+542
+2
+3
+Torres
+Great Expectations
+Faber & Faber
+661
+3
+17
+1
+Jefferson
+The Adventures of Tom Sawyer
+HarperFestival
+205
+1
+Gaming
+1
+1
+1841
+Woolf
+Potter and the Deathly Hallows
+Headline Publishing Group
+96
+1
+Manufacturing
+1
+0
+1544
+Melville
+Jane Eyre
+Dark Horse Comics
+513
+3
+18
+1
+Joyce
+Little Women
+HarperCollins
+954
+3
+0
+1
+Wood
+The Call of the Wild
+Scholastic Press
+464
+3
+15
+2
+Lopez
+Northanger Abbey
+Viking
+579
+1
+Automotive
+1
+0
+1792
+May
+The Chronicles of Narnia
+Ecco Press
+677
+3
+12
+2
+Gutierrez
+Charlotte Bronte
+Avon Books
+615
+1
+Food and Beverage
+1
+0
+1991
+Mason
+The Catcher in the Rye
+Little, Brown and Company
+606
+1
+Music
+0
+1
+1918
+Roberts
+Potter and the Order of the Phoenix
+Penguin Essentials
+915
+1
+Gaming
+1
+1
+1984
+Perry
+Timeline
+Zondervan
+561
+2
+2
+Hernandez
+Little Women
+Penguin Books
+787
+3
+8
+2
+Morales
+The Courage of Sarah Noble
+Allen Lane
+165
+2
+2
+Jackson
+Bless Me, Ultima
+Bloomsbury Academic
+864
+1
+Legal
+0
+1
+1593
+Perez
+A Tale of Two Cities
+Disney Publishing Worldwide
+584
+1
+Biotechnology
+0
+1
+1636
+Lopez
+Wuthering Heights
+Vintage Books
+775
+1
+Hospitality
+1
+1
+2008
+Barr
+Adventures of Huckleberry Finn
+Bloomsbury Children's Books
+447
+3
+5
+2
+Webb
+The Da Vinci Code
+Ecco Press
+351
+2
+2
+Larson
+Brave New World
+Fourth Estate
+603
+1
+Gaming
+0
+0
+1509
+Gogol
+The One and Only Ivan
+Viking Press
+22
+3
+11
+1
+Dickens
+Gone with the Wind
+St. Martin's Griffin
+602
+3
+12
+2
+Morgan
+Mansfield Park
+Gollancz
+123
+1
+Education
+1
+1
+1829
+Hudson
+The Hobbit
+Hogarth Press
+491
+2
+1
+Lopez
+The Hunger Games
+Faber and Faber
+227
+1
+Information Technology
+1
+1
+1592
+Tolkien
+Shiloh
+Usborne Publishing
+804
+1
+Gaming
+0
+1
+1986
+Barnes
+Gone with the Wind
+Pan Macmillan
+182
+3
+8
+1
+Powell
+White Fang
+Quercus
+315
+1
+Healthcare
+1
+0
+1642
+Torres
+To the Lighthouse
+Disney Publishing Worldwide
+210
+1
+Consulting
+1
+0
+1728
+Hesse
+Potter and the Philosopher's Stone
+Thomas Nelson
+605
+3
+9
+2
+Torres
+Oliver Twist
+Viking Press
+238
+3
+1
+1
+Owens
+David Copperfield
+HarperCollins
+800
+2
+3
+London
+The Lord of the Rings
+Viking
+112
+2
+2
+Reyes
+A Farewell to Arms
+Chronicle Books
+635
+2
+1
+Evans
+Frankenstein
+Grand Central Publishing
+582
+2
+1
+Webb
+A Thousand Splendid Suns
+Ballantine Books
+407
+2
+1
+Hawkins
+The Picture of Dorian Gray
+Bloomsbury Children's Books
+379
+2
+1
+Murakami
+The Girl Who Played with Fire
+Piatkus
+809
+3
+7
+1
+Taylor
+A Midsummer Night's Dream
+Simon & Schuster
+702
+3
+18
+1
+Levine
+Frankenstein
+Disney Publishing Worldwide
+552
+2
+1
+Orwell
+The Scarlet Letter
+Macmillan Publishers
+488
+1
+Biotechnology
+1
+0
+1531
+Williams
+The Hunger Games
+Penguin Random House
+670
+1
+Music
+0
+1
+1852
+Dixon
+Treasure Island
+HarperOne
+144
+3
+14
+2
+Morgan
+The Alchemist
+Bloomsbury Publishing
+61
+3
+14
+2
+Lopez
+Dracula
+Oxford University Press
+865
+2
+1
+Dolan
+Les Miserables
+Scholastic Corporation
+182
+2
+2
+Stendhal
+To Kill a Mockingbird
+St. James Press
+867
+3
+11
+2
+Dolan
+The Great Gatsby
+HarperCollins Children's Books
+919
+2
+3
+Nabokov
+The Thorn Birds
+Piatkus
+782
+2
+3
+Austen
+The Chronicles of Narnia
+Soho Press
+900
+1
+Transportation
+1
+0
+1673
+Whitman
+Roll of Thunder, Hear My Cry
+Little, Brown and Company
+176
+2
+3
+Sanders
+Dune
+Harlequin Enterprises
+585
+3
+4
+2
+Eliot
+Tuck Everlasting
+Houghton Mifflin Harcourt
+675
+2
+3
+Hugo
+Lolita
+Anchor Books
+620
+2
+1
+Larson
+Brave New World
+Simon & Schuster
+797
+3
+1
+2
+Woolf
+Potter and the Deathly Hallows
+Penguin Books
+851
+3
+16
+1
+Melville
+Fahrenheit 451
+Faber & Faber
+177
+2
+3
+Owens
+Pride and Prejudice
+HarperFestival
+505
+2
+1
+Melville
+Flatland
+William Morrow
+298
+3
+5
+1
+Wright
+Starship Troopers
+Chronicle Books
+98
+3
+7
+2
+Verne
+The Scarlet Letter
+Ballantine Books
+502
+1
+Food and Beverage
+0
+1
+1888
+Nabokov
+A Portrait of the Artist as a Young Man
+Norton Publishing
+505
+2
+3
+Murakami
+Revolutionary Road
+St. Martin's Press
+676
+2
+1
+Oliver
+To the Lighthouse
+Mira Books
+103
+3
+6
+1
+Daniel
+Congratualtions
+HarperTeen
+416
+3
+4
+1
+Neal
+Foundation
+Gallery Books
+687
+3
+13
+1
+Levine
+Wuthering Heights
+Dutton Books
+686
+2
+1
+Hernandez
+Oliver Twist
+Scholastic Press
+413
+3
+3
+2
+Webb
+Of Mice and Men
+Quirk Books
+207
+3
+12
+1
+Sanchez
+Potter and the Chamber of Secrets
+Liveright Publishing Corporation
+655
+3
+6
+2
+Amir
+A Wrinkle in Time
+Dark Horse Comics
+136
+1
+Transportation
+0
+1
+1558
+White
+The Grapes of Wrath
+Penguin Essentials
+670
+3
+17
+1
+Dumas
+A Farewell to Arms
+Grove Atlantic
+438
+2
+1
+Aristotle
+The Great Gatsby
+Canongate Books
+775
+3
+5
+1
+Torres
+Anne of Green Gables
+Faber & Faber
+774
+2
+1
+Hugo
+Mark Twain
+Quirk Books
+388
+3
+17
+1
+Rogers
+The Metamorphosis
+Grove Press
+84
+3
+0
+2
+Stewart
+Potter and the Prisoner of AzkabanVintage Classics
+Grove Weidenfeld
+837
+2
+1
+Hernandez
+Moby-Dick
+Tor Teen
+860
+1
+Biotechnology
+0
+0
+1624
+Proust
+The Miraculous Journey of Edward Tulane
+Quercus
+475
+2
+3
+Jefferson
+Potter and the Order of the Phoenix
+Alfred A. Knopf
+913
+1
+Energy
+0
+0
+1674
+Murphy
+Lord of the Flies
+William Morrow
+402
+2
+2
+Melville
+The Alchemist
+Anchor Books
+458
+1
+Entertainment
+0
+0
+1992
+Larson
+Potter and the Order of the Phoenix
+Houghton Mifflin Harcourt
+137
+1
+Biotechnology
+0
+0
+1579
+Voltaire
+Bridge to Terabithia
+HarperCollins
+465
+2
+3
+Neal
+The Lightning Thief
+Norton Publishing
+396
+3
+15
+1
+London
+The Trial
+Puffin Books
+8
+1
+Finance
+0
+0
+1857
+Davidson
+The Odyssey
+Penguin Modern Classics
+896
+3
+12
+2
+Hesse
+One Hundred Years of Solitude
+HarperOne
+732
+1
+Finance
+1
+1
+1536
+Reynolds
+1984
+HarperFestival
+534
+2
+1
+Murakami
+The Girl Who Played with Fire
+University of Chicago Press
+124
+2
+2
+Cassidy
+The Count of Monte Cristo
+Zondervan
+783
+2
+1
+Williams
+A Mango-Shaped Space
+Mira Books
+827
+2
+3
+Hawkins
+Mrs. Dalloway
+Penguin Random House
+892
+1
+Renewable Energy
+0
+1
+1847
+Swift
+The Adventures of Sherlock Holmes
+Perseus Books
+540
+3
+3
+2
+Webb
+Potter and the Half-Blood Prince
+HarperFestival
+534
+1
+Transportation
+1
+0
+1637
+Kundera
+The Outsiders
+Thomas Nelson
+314
+1
+Travel and Tourism
+1
+1
+1832
+Wilson
+Great Expectations
+Vintage Classics
+514
+3
+2
+1
+Torres
+Jane Eyre
+Chronicle Books
+337
+1
+Finance
+1
+1
+1706
+Gogol
+Crime and Punishment
+Harper Perennial
+256
+1
+Construction
+0
+1
+1892
+Choi
+Great Expectations
+University of Chicago Press
+751
+3
+17
+2
+Jefferson
+A Christmas Carol
+Mira Books
+432
+2
+2
+Balzac
+To the Lighthouse
+Grand Central Publishing
+219
+2
+2
+Sanders
+Holes
+Chronicle Books
+456
+3
+11
+1
+Owens
+Another Roadside Attraction
+Pearson Education
+921
+2
+3
+Swift
+Through the Looking-Glass
+HarperCollins
+689
+1
+Fitness
+1
+0
+1861
+Reynolds
+Gone with the Wind
+Roaring Brook Press
+560
+2
+2
+Smith
+Prey
+Ecco Press
+2
+1
+Energy
+1
+1
+1957
+Hemingway
+Catch-22
+Gollancz
+305
+3
+15
+2
+Hudson
+The Wonderful Wizard of Oz
+Penguin Press
+809
+2
+1
+Shelley
+1984
+Tor Teen
+73
+1
+Insurance
+0
+0
+1587
+Stendhal
+A Canticle for Leibowitz
+Penguin Press
+668
+3
+16
+1
+Mason
+The Adventures of Huckleberry Finn
+St. James Press
+867
+3
+11
+1
+Hawkins
+Ella Enchanted
+Piatkus
+527
+3
+12
+1
+Cunningham
+Oliver Twist
+Alfred A. Knopf
+337
+2
+3
+Woolf
+The Left Hand of Darkness
+Hogarth
+910
+2
+3
+Taylor
+Moby Dick
+Pearson Education
+883
+1
+Telecommunications
+0
+0
+1526
+Amir
+Bless Me, Ultima
+St. Martin's Griffin
+218
+3
+15
+1
+Jefferson
+Fahrenheit 451
+Quercus
+793
+3
+15
+1
+Scott
+The Little Prince
+Chronicle Books
+943
+1
+Travel and Tourism
+1
+0
+1591
+Turner
+Catch-22
+Penguin Essentials
+973
+3
+14
+2
+Reyes
+Romeo and Juliet
+Wiley
+535
+3
+13
+2
+Wood
+Potter and the Order of the Phoenix
+HarperCollins
+153
+2
+2
+Rice
+Coraline
+Hogarth
+527
+1
+Gaming
+1
+0
+1892
+Conrad
+Outlander
+Del Rey Books
+880
+1
+Information Technology
+1
+1
+1625
+Rogers
+Around the World in Eighty Days
+St. James Press
+544
+1
+Insurance
+0
+1
+1713
+Dostoevsky
+Hyperion
+St. Martin's Press
+486
+2
+1
+Cisneros
+The Strange Case of Dr. Jekyll and Mr. Hyde
+Wiley
+461
+3
+15
+2
+Cervantes
+The One and Only Ivan
+Windmill Books
+83
+1
+Media
+1
+0
+1919
+Maupassant
+Wuthering Heights
+Penguin Press
+990
+2
+1
+Russell
+Mansfield Park
+Chronicle Books
+238
+1
+Music
+0
+1
+1657
+Neal
+Mansfield Park
+Windmill Books
+847
+3
+2
+2
+Gaiman
+The Adventures of Huckleberry Finn
+Wiley
+351
+3
+10
+1
+Larson
+Shiloh
+Headline Publishing Group
+66
+1
+Aerospace
+0
+1
+1854
+London
+Misery
+Hodder & Stoughton
+495
+2
+2
+Sharp
+The Martian Chronicles
+Anchor Books
+268
+3
+9
+1
+Wells
+The Year of Living Dangerously
+Dark Horse Comics
+49
+2
+1
+Rice
+Oliver Twist
+Hogarth Press
+590
+2
+2
+Roberts
+The Fault in Our Stars
+St. Martin's Press
+996
+1
+Legal
+0
+0
+1804
+Cassidy
+A Portrait of the Artist as a Young Man
+Scholastic Corporation
+450
+3
+5
+1
+Myers
+The Metamorphosis
+Ballantine Books
+824
+2
+2
+Romero
+The Time Machine
+HarperCollins
+823
+2
+3
+Dumas
+The Thorn Birds
+Picador
+316
+2
+2
+O'Connor
+Breakfast at Tiffany's
+Grand Central Publishing
+328
+3
+10
+2
+Orwell
+The Outsiders
+Liveright Publishing Corporation
+809
+3
+16
+1
+Smith
+The Trial
+Grove Weidenfeld
+763
+1
+Food and Beverage
+0
+0
+1970
+Rogers
+The Chronicles of Narnia
+Mariner Books
+732
+1
+Healthcare
+0
+0
+1665
+Garza
+Of Mice and Men
+Alfred A. Knopf
+362
+2
+1
+Dostoevsky
+The Alchemist
+Oxford University Press
+149
+2
+1
+Nelson
+Lord of the Flies
+Scholastic Press
+695
+1
+Music
+0
+1
+1982
+Taylor
+Do Androids Dream of Electric Sheep?
+MacLehose Press
+4
+3
+0
+2
+Austen
+The Diary of a Young Girl
+Bloomsbury Publishing
+91
+3
+8
+2
+Sanchez
+Pride and Prejudice
+Hogarth
+65
+1
+Gaming
+0
+1
+1851
+Cooper
+Charlotte's Web
+Faber & Faber
+224
+2
+1
+Garza
+Jane Eyre
+Penguin Classics
+337
+3
+8
+1
+Hawkins
+Potter and the Deathly Hallows
+Simon Pulse
+89
+2
+1
+Chekhov
+The Alchemist
+HarperTeen
+755
+2
+1
+Hesse
+Hamlet
+Scholastic Corporation
+232
+2
+1
+Plato
+The Fellowship of the Ring
+Quirk Books
+901
+2
+1
+Lopez
+Congratualtions
+Viking
+349
+1
+Fashion
+1
+1
+1954
+Ramirez
+The Giver
+Quirk Books
+12
+1
+Telecom
+1
+0
+1901
+Lawrence
+The Fellowship of the Ring
+Scribner
+61
+2
+3
+Morales
+The Little Prince
+Anchor Books
+929
+2
+3
+Daniel
+Pride and Prejudice
+HarperOne
+849
+1
+Aerospace
+1
+0
+1918
+Romero
+The Alchemist
+Penguin Press
+314
+1
+Sports
+0
+1
+1521
+Cervantes
+The Invention of Hugo Cabret
+Zondervan
+153
+2
+3
+Dixon
+Ringworld
+Penguin Random House
+638
+3
+17
+1
+Gutierrez
+The Odyssey
+Del Rey Books
+727
+2
+3
+Owens
+Potter and the Goblet of Fire
+Simon & Schuster
+570
+1
+Real Estate
+1
+1
+1975
+Melville
+A Tale of Two Cities
+Hogarth Press
+742
+2
+3
+Peterson
+Moby-Dick
+Pearson Education
+381
+1
+Transportation
+1
+1
+1862
+Webb
+Anna Karenina
+Workman Publishing
+265
+1
+Hospitality
+1
+0
+1669
+Drake
+1984
+Thomas Nelson
+330
+3
+9
+1
+Roberts
+The Three Musketeers
+Scholastic Corporation
+223
+3
+12
+2
+Murphy
+The Shining
+Scribner
+867
+3
+16
+2
+Norton
+The Stand
+Scholastic Press
+62
+3
+10
+2
+Sullivan
+A Clockwork Orange
+Random House Children's Books
+579
+2
+2
+Reed
+Nineteen Eighty-Four
+Scholastic Press
+110
+3
+8
+1
+Garza
+Potter and the Philosopher's Stone
+Scribner
+515
+3
+3
+2
+Whitman
+Oliver Twist
+Dark Horse Comics
+781
+2
+1
+Webb
+Crime and Punishment
+Vintage Books
+964
+3
+10
+2
+Hudson
+Great Expectations
+Fourth Estate
+349
+2
+3
+Orwell
+Brave New World
+Hodder & Stoughton
+854
+1
+Healthcare
+0
+0
+1796
+Anders
+Oliver Twist
+Piatkus
+822
+1
+Finance
+0
+0
+1791
+Hayes
+The Kite Runner
+Piatkus
+175
+3
+1
+2
+Romero
+Oliver Twist
+Grove Press
+257
+3
+13
+1
+Sanchez
+The Miraculous Journey of Edward Tulane
+Houghton Mifflin Harcourt
+151
+3
+10
+2
+Johnson
+The Da Vinci Code
+Hogarth
+555
+3
+12
+1
+Austen
+Through the Looking-Glass
+Hogarth
+596
+2
+3
+Parker
+Foundation
+Liveright Publishing Corporation
+77
+2
+2
+Dumas
+A Passage to India
+Bloomsbury Academic
+990
+2
+2
+Gogol
+Lord of the Flies
+Verso Books
+862
+3
+16
+1
+McCarthy
+Wuthering Heights
+Scribner
+766
+2
+2
+Lee
+Potter and the Deathly Hallows
+Picador
+240
+2
+3
+Stewart
+The Silmarillion
+Penguin Essentials
+231
+3
+16
+2
+Hudson
+The Count of Monte Cristo
+St. Martin's Griffin
+1000
+1
+Hospitality
+0
+1
+1904
+Mann
+Dune
+Vintage Classics
+181
+2
+2
+Tolstoy
+Catch-22
+Roaring Brook Press
+249
+1
+Legal
+1
+0
+1772
+Goethe
+Journey to the Center of the Earth
+Bloomsbury Publishing
+280
+2
+2
+Martinez
+The Giver
+Bloomsbury Children's Books
+940
+2
+1
+Tolkien
+Heart of Darkness
+Hachette Book Group
+94
+2
+1
+O'Connor
+Number the Stars
+Faber and Faber
+927
+1
+E-commerce
+1
+0
+1825
+Drake
+Pride and Prejudice
+Canongate
+645
+1
+Fitness
+0
+1
+1948
+Peterson
+From the Mixed-Up Files of Mrs. Basil E. Frankweiler
+Penguin Modern Classics
+540
+2
+1
+Jones
+The Secret Garden
+Puffin Books
+867
+2
+3
+Cervantes
+Carrie
+Liveright Publishing Corporation
+563
+3
+8
+2
+Myers
+Another Roadside Attraction
+Bloomsbury Academic
+625
+3
+0
+1
+Bronte
+American Gods
+Bloomsbury Publishing
+784
+3
+11
+2
+Anders
+A Thousand Splendid Suns
+Soho Press
+291
+2
+3
+Saramago
+The Sound and the Fury
+Abrams Books
+96
+3
+2
+2
+Shakespeare
+Les Miserables
+Ballantine Books
+134
+2
+3
+May
+Bless Me, Ultima
+Tor Books
+754
+3
+8
+2
+Anders
+Coraline
+Avon Books
+537
+3
+8
+2
+Lopez
+Matilda
+Scholastic Press
+936
+1
+Manufacturing
+0
+0
+2011
+Morgan
+Moby-Dick
+Sourcebooks
+336
+1
+Food and Beverage
+1
+0
+1947
+Morales
+Shiloh
+MacLehose Press
+94
+2
+1
+Verne
+The Hunger Games
+Hachette Book Group
+202
+2
+1
+Schmidt
+The Da Vinci Code
+HarperOne
+928
+3
+9
+2
+Cassidy
+From the Mixed-Up Files of Mrs. Basil E. Frankweiler
+HarperOne
+442
+2
+1
+Rivera
+White Fang
+Allen Lane
+796
+3
+11
+2
+Kundera
+The Great Gatsby
+Sourcebooks
+562
+3
+2
+1
+Ross
+Bud, Not Buddy
+Macmillan Publishers
+513
+1
+Construction
+1
+0
+1664
+Larson
+The Picture of Dorian Gray
+Pan Macmillan
+19
+3
+9
+1
+Robinson
+The Odyssey
+Bloomsbury Academic
+982
+2
+3
+Whitman
+The Wind in the Willows
+Pan Macmillan
+133
+3
+17
+2
+Norton
+Coraline
+Alfred A. Knopf
+721
+2
+3
+Mann
+Shiloh
+HarperCollins
+37
+3
+9
+2
+Mason
+The Trial
+Canongate
+927
+1
+Finance
+1
+1
+1775
+Mann
+Potter and the Sorcerer's Stone
+Del Rey Books
+1000
+1
+Travel and Tourism
+1
+0
+1533
+White
+Ringworld
+Mira Books
+4
+1
+Pharmaceutical
+1
+1
+1902
+Pushkin
+The View from Saturday
+Gollancz
+495
+3
+4
+2
+Reynolds
+To Kill a Mockingbird
+Penguin Random House
+879
+1
+Education
+1
+1
+1743
+Davidson
+All Quiet on the Western Front
+HarperTeen
+766
+3
+12
+2
+Murphy
+The Martian Chronicles
+Viking
+659
+2
+3
+Whitman
+The Tale of Peter Rabbit
+Viking
+464
+2
+1
+Ross
+Pride and Prejudice
+Puffin Books
+312
+1
+Real Estate
+0
+1
+1923
+Thomas
+The Da Vinci Code
+William Morrow
+958
+3
+8
+2
+Dickens
+Potter and the Chamber of Secrets
+Anchor Books
+957
+3
+12
+1
+Nabokov
+A Christmas Carol
+Pearson Education
+157
+1
+Food and Beverage
+0
+0
+1535
+Murphy
+Timeline
+Headline Publishing Group
+4
+3
+11
+1
+Mason
+Brave New World
+Piatkus
+690
+1
+Logistics
+0
+1
+1834
+Torres
+A Tale of Two Cities
+MacLehose Press
+13
+2
+3
+Garcia Marquez
+A Wrinkle in Time
+Random House Children's Books
+703
+2
+2
+Dante
+Mark Twain
+Penguin Modern Classics
+588
+3
+4
+1
+Wood
+The Little Prince
+Zondervan
+725
+1
+Music
+1
+1
+1984
+Romero
+Flatland
+Mariner Books
+165
+3
+3
+1
+Schmidt
+Ulysses
+Dark Horse Comics
+189
+1
+Energy
+1
+0
+1662
+Orwell
+The Godfather
+Random House Children's Books
+360
+2
+2
+Rivera
+The Left Hand of Darkness
+Wiley
+931
+3
+8
+1
+Robinson
+Pride and Prejudice
+Melville House Publishing
+659
+2
+2
+Cisneros
+The Picture of Dorian Gray
+HarperCollins Children's Books
+637
+1
+Gaming
+1
+0
+1943
+Whitman
+The Scarlet Letter
+Tor Teen
+612
+2
+2
+Morales
+The Count of Monte Cristo
+William Morrow
+273
+3
+16
+2
+Peterson
+The Martian Chronicles
+Cambridge University Press
+910
+2
+2
+Nguyen
+Gone with the Wind
+Pegasus Books
+877
+3
+1
+2
+Rivera
+One Hundred Years of Solitude
+Windmill Books
+767
+3
+8
+2
+Davidson
+One Hundred Years of Solitude
+Hodder & Stoughton
+640
+2
+3
+Reynolds
+Potter and the Order of the Phoenix
+Penguin Modern Classics
+797
+3
+15
+1
+Hudson
+The Handmaid's Tale
+Quercus
+460
+2
+2
+Austen
+The Tell-Tale Heart
+St. Martin's Press
+776
+1
+Education
+0
+0
+1508
+Davidson
+Nineteen Eighty-Four
+Houghton Mifflin Harcourt
+902
+1
+Real Estate
+1
+1
+1868
+Pushkin
+The Secret Life of Bees
+Canongate
+913
+3
+15
+2
+Hall
+The Hunger Games
+Workman Publishing
+577
+1
+Logistics
+1
+0
+1544
+Woolf
+Carrie
+Harper Perennial
+323
+3
+10
+2
+Dante
+Twenty Thousand Leagues Under the Sea
+Penguin Essentials
+176
+2
+1
+Austen
+Charlotte Bronte
+Penguin Classics
+695
+1
+Education
+1
+1
+1748
+Thomas
+Pride and Prejudice
+HarperCollins Children's Books
+808
+2
+2
+Nelson
+The Silmarillion
+Scholastic Press
+844
+1
+Real Estate
+1
+0
+1936
+Dumas
+Twenty Thousand Leagues Under the Sea
+MacLehose Press
+89
+3
+8
+2
+Holmes
+The Da Vinci Code
+Perseus Books
+614
+3
+14
+2
+Lee
+Potter and the Order of the Phoenix
+Pan Macmillan
+989
+2
+3
+Maupassant
+Louisa May Alcott
+Scholastic Corporation
+751
+2
+1
+Hugo
+Dune
+University of Chicago Press
+813
+3
+0
+2
+Schmidt
+Nineteen Eighty-Four
+Del Rey Books
+304
+1
+Education
+1
+1
+1808
+Shelley
+The Girl Who Kicked the Hornet's Nest
+Faber & Faber
+694
+2
+3
+Young
+The Secret Garden
+Perseus Books
+451
+3
+14
+1
+Romero
+Potter and the Deathly Hallows
+Puffin Books
+165
+2
+3
+Patel
+Twenty Thousand Leagues Under the Sea
+Vintage Books
+744
+1
+Telecommunications
+0
+1
+1914
+Kundera
+The Miraculous Journey of Edward Tulane
+Ballantine Books
+997
+1
+Advertising
+0
+1
+1631
+White
+Through the Looking-Glass
+St. Martin's Press
+527
+2
+3
+Ross
+The Little Prince
+Pan Macmillan
+748
+2
+1
+Wilde
+The Diary of a Young Girl
+Liveright Publishing Corporation
+27
+3
+18
+2
+Reed
+Walk Two Moons
+Houghton Mifflin
+304
+3
+7
+2
+Wilde
+Congratualtions
+Grove Atlantic
+747
+2
+1
+Proust
+Dracula
+Liveright Publishing Corporation
+797
+1
+Manufacturing
+1
+1
+1594
+Nabokov
+One Hundred Years of Solitude
+Disney Publishing Worldwide
+662
+2
+2
+Pushkin
+The Fellowship of the Ring
+Ecco Press
+631
+2
+2
+Woolf
+Potter and the Prisoner of AzkabanVintage Classics
+Ballantine Books
+890
+2
+2
+Patel
+1984
+Anchor Books
+346
+2
+2
+Wilde
+Oliver Twist
+Piatkus
+999
+3
+14
+1
+Cunningham
+The Mote in God's Eye
+William Morrow
+990
+3
+17
+1
+Levine
+Gateway
+Simon Pulse
+557
+2
+3
+Williams
+The Mote in God's Eye
+Picador
+934
+3
+5
+2
+Austen
+The Fault in Our Stars
+Mariner Books
+332
+2
+3
+Woolf
+The Graveyard Book
+HarperFestival
+79
+2
+1
+Melville
+Ender's Game
+Gallery Books
+969
+1
+Real Estate
+1
+1
+1800
+Ross
+Journey to the Center of the Earth
+Houghton Mifflin Harcourt
+162
+3
+16
+1
+Shelley
+Ella Enchanted
+Windmill Books
+658
+1
+Biotechnology
+0
+1
+1658
+Shakespeare
+Persuasion
+Penguin Classics
+710
+1
+Healthcare
+0
+0
+1814
+Steinbeck
+Hyperion
+Thomas Nelson
+631
+3
+15
+1
+Reed
+A Portrait of the Artist as a Young Man
+Houghton Mifflin
+402
+2
+3
+Levine
+The Picture of Dorian Gray
+HarperOne
+957
+3
+5
+2
+Webb
+The Time Machine
+HarperTeen
+981
+3
+9
+2
+Jones
+Gateway
+Grand Central Publishing
+386
+3
+2
+1
+Homer
+Moby-Dick
+Piatkus
+844
+3
+4
+1
+Wilde
+The Giver
+Anchor Books
+385
+3
+8
+1
+Neal
+To Sir, With Love
+Houghton Mifflin
+316
+1
+Biotechnology
+1
+1
+2002
+Aristotle
+The Handmaid's Tale
+Norton Publishing
+143
+2
+3
+Daniel
+The Golden Compass
+Penguin Modern Classics
+293
+3
+13
+2
+Parker
+The Lightning Thief
+Melville House Publishing
+975
+3
+10
+2
+Anders
+The Graveyard Book
+Quercus
+187
+2
+1
+Sullivan
+The Iliad
+Penguin Modern Classics
+778
+3
+12
+1
+Oliver
+David Copperfield
+Macmillan Publishers
+397
+3
+14
+2
+Garcia Marquez
+Ender's Game
+Bloomsbury Children's Books
+665
+1
+E-commerce
+0
+1
+1706
+London
+Snow Crash
+Houghton Mifflin Harcourt
+164
+1
+Transportation
+0
+0
+1859
+Hudson
+Great Expectations
+Faber & Faber
+706
+2
+1
+McGee
+Shiloh
+Simon & Schuster
+618
+2
+1
+Nabokov
+A Tale of Two Cities
+Disney Publishing Worldwide
+639
+2
+1
+Hall
+Animal Farm
+Knopf Doubleday Publishing Group
+866
+2
+1
+Miller
+Around the World in Eighty Days
+Harper Voyager
+891
+1
+Fitness
+1
+1
+1511
+Hayes
+Number the Stars
+Mira Books
+427
+2
+2
+Wood
+The Hobbit
+Tor Books
+284
+3
+3
+1
+Evans
+The Giver
+Macmillan Publishers
+206
+3
+18
+1
+Jones
+James and the Giant Peach
+Gollancz
+423
+2
+1
+Parker
+Emma
+Piatkus
+937
+1
+Biotechnology
+0
+1
+1948
+Plato
+Lord of the Flies
+Knopf Doubleday Publishing Group
+481
+3
+9
+1
+Ross
+Treasure Island
+Hachette Book Group
+177
+1
+Fashion
+1
+0
+1675
+Stendhal
+The Old Man and the Sea
+Hachette Book Group
+188
+2
+1
+Nelson
+The Shining
+Norton Publishing
+415
+2
+3
+Joyce
+The Fault in Our Stars
+Anchor Books
+275
+2
+3
+Barnes
+The Adventures of Huckleberry Finn
+Chronicle Books
+631
+1
+Aerospace
+0
+1
+1898
+Johnson
+Crime and Punishment
+Grove Weidenfeld
+306
+1
+Telecommunications
+0
+1
+1790
+Robinson
+L. Frank Baum
+Viking Press
+947
+1
+Sports
+1
+0
+1812
+Gutierrez
+Gateway
+Scribner
+84
+3
+18
+1
+Davidson
+Peyton Place
+Pearson Education
+794
+2
+2
+McGee
+The Girl Who Played with Fire
+Harper Perennial
+355
+1
+Entertainment
+0
+1
+1678
+Oliver
+The Odyssey
+Scribner
+268
+2
+1
+Wilde
+The Odyssey
+St. Martin's Griffin
+268
+1
+Finance
+1
+1
+1962
+Steinbeck
+A Canticle for Leibowitz
+Houghton Mifflin
+443
+3
+8
+1
+Smith
+The Time Traveler's Wife
+Piatkus
+943
+3
+4
+2
+Thompson
+Bridge to Terabithia
+Hogarth Press
+787
+2
+3
+Reynolds
+Potter and the Chamber of Secrets
+Dutton Books
+859
+1
+Media
+1
+0
+1652
+Cassidy
+A Christmas Carol
+Soho Press
+28
+3
+7
+2
+Voltaire
+Louisa May Alcott
+Houghton Mifflin Harcourt
+870
+2
+1
+Choi
+The Old Man and the Sea
+Dutton Books
+246
+2
+2
+Homer
+To Kill a Mockingbird
+Scholastic Corporation
+47
+1
+Information Technology
+1
+0
+1676
+Thomas
+The Chronicles of Narnia
+University of Chicago Press
+811
+1
+Construction
+0
+1
+1701
+Turgenev
+Mansfield Park
+Vintage Classics
+408
+2
+2
+Nelson
+Bridge to Terabithia
+HarperFestival
+372
+1
+Real Estate
+1
+0
+1833
+Simon
+The Da Vinci Code
+Knopf Doubleday Publishing Group
+162
+1
+Real Estate
+0
+1
+1954
+Phillips
+Mansfield Park
+Hogarth
+185
+2
+3
+Roberts
+Oliver Twist
+Viking
+103
+1
+Logistics
+0
+0
+1650
+Powell
+The Westing Game
+Pegasus Books
+118
+2
+3
+Ward
+Potter and the Goblet of Fire
+Macmillan Publishers
+658
+2
+1
+Taylor
+David Copperfield
+Tor Books
+506
+2
+3
+Levine
+The Tale of Despereaux
+Pegasus Books
+371
+3
+8
+1
+Snyder
+A Canticle for Leibowitz
+Penguin Random House
+811
+1
+Food and Beverage
+0
+1
+1869
+Wilde
+Emily Bronte
+Gallery Books
+575
+1
+Fitness
+1
+0
+1600
+Nelson
+Louisa May Alcott
+HarperOne
+78
+2
+1
+Poe
+The Sun Also Rises
+Roaring Brook Press
+119
+2
+2
+Ramirez
+The Wonderful Wizard of Oz
+Windmill Books
+765
+1
+Food and Beverage
+0
+1
+1767
+Sullivan
+The Scarlet Letter
+Random House Children's Books
+34
+2
+3
+Stendhal
+Where the Red Fern Grows
+Penguin Books
+656
+1
+Finance
+0
+0
+1827
+Kim
+To Kill a Mockingbird
+Gollancz
+305
+3
+12
+1
+Cisneros
+The Tale of Peter Rabbit
+Penguin Classics
+894
+3
+10
+1
+Maupassant
+American Gods
+Scholastic Press
+577
+3
+11
+1
+Taylor
+The Grapes of Wrath
+Wiley
+408
+3
+15
+2
+Shelley
+The Outsiders
+Penguin Essentials
+472
+3
+12
+1
+Herrera
+The Handmaid's Tale
+Penguin Essentials
+81
+1
+Pharmaceutical
+0
+1
+1779
+Mann
+The Tell-Tale Heart
+Quercus
+495
+3
+5
+1
+Davidson
+The Metamorphosis
+Simon & Schuster
+861
+2
+2
+Larson
+The Chronicles of Narnia
+Mira Books
+531
+2
+3
+Thompson
+Jurassic Park
+Chronicle Books
+8
+2
+2
+Simon
+Through the Looking-Glass
+Penguin Classics
+191
+3
+9
+2
+Snyder
+The Silmarillion
+Pegasus Books
+346
+1
+Food and Beverage
+0
+0
+1541
+Ross
+Potter and the Half-Blood Prince
+Zondervan
+238
+3
+18
+2
+Owens
+A Tale of Two Cities
+Harlequin Enterprises
+211
+3
+15
+2
+Dante
+Frankenstein
+William Morrow
+533
+2
+1
+London
+Jane Eyre
+Picador
+570
+2
+1
+Hernandez
+The War of the Worlds
+Thomas Nelson
+442
+2
+3
+Ross
+Anne of Green Gables
+University of Chicago Press
+602
+1
+Advertising
+1
+1
+1800
+Hugo
+The Jungle Book
+Vintage Classics
+949
+1
+Pharmaceutical
+1
+1
+1981
+White
+Holes
+Grand Central Publishing
+331
+2
+3
+Murakami
+The Adventures of Sherlock Holmes
+HarperTeen
+89
+1
+Aerospace
+1
+0
+1871
+Woolf
+Potter and the Half-Blood Prince
+Harlequin Enterprises
+17
+2
+1
+Hunt
+The Trial
+Vintage Books
+634
+2
+2
+Ramirez
+A Tale of Two Cities
+Soho Press
+404
+1
+Information Technology
+0
+0
+1749
+Morgan
+Prey
+Hachette Book Group
+126
+3
+9
+2
+Spencer
+The Girl Who Kicked the Hornet's Nest
+Allen Lane
+190
+2
+3
+Wright
+Ella Enchanted
+Usborne Publishing
+232
+3
+12
+1
+Shelley
+Misery
+Pan Macmillan
+455
+2
+2
+Mason
+Snow Crash
+Canongate
+442
+1
+Media
+1
+1
+1901
+Johnson
+Roll of Thunder, Hear My Cry
+Grove Press
+382
+1
+Insurance
+0
+0
+1986
+McGee
+Twilight
+Grove Atlantic
+820
+1
+E-commerce
+0
+0
+1574
+Ramirez
+The Catcher in the Rye
+Penguin Random House
+16
+2
+1
+Rogers
+The Girl Who Played with Fire
+Penguin Press
+802
+2
+3
+Robinson
+The Adventures of Sherlock Holmes
+Simon & Schuster
+339
+3
+17
+2
+Richardson
+Journey to the Center of the Earth
+Penguin Essentials
+63
+3
+17
+2
+Fitzgerald
+Walk Two Moons
+Gallery Books
+688
+1
+Insurance
+0
+0
+1827
+Lee
+Memoirs of a Geisha
+HarperOne
+680
+3
+17
+2
+Shelley
+The Handmaid's Tale
+Little, Brown and Company
+401
+3
+2
+2
+Plato
+Little Women
+Soho Press
+792
+3
+11
+1
+Kafka
+The Call of the Wild
+Allen Lane
+50
+1
+Real Estate
+0
+0
+1762
+Drake
+Oliver Twist
+Norton Publishing
+401
+3
+14
+2
+Turner
+Carrie
+Piatkus
+584
+2
+2
+Melville
+Emily Bronte
+Scribner
+38
+3
+8
+2
+Oliver
+The Adventures of Huckleberry Finn
+Vintage Books
+787
+2
+2
+Mason
+Dune
+Bloomsbury Children's Books
+822
+3
+11
+2
+Camus
+Potter and the Goblet of Fire
+Picador
+974
+2
+1
+Turgenev
+Roll of Thunder, Hear My Cry
+St. Martin's Griffin
+344
+2
+2
+Mason
+The Wind in the Willows
+Hogarth Press
+793
+2
+3
+Verne
+Of Mice and Men
+Hodder & Stoughton
+853
+2
+3
+Russell
+1984
+Wiley
+216
+2
+1
+Austen
+Moby-Dick
+Harlequin Enterprises
+386
+2
+1
+Gaiman
+Alice in Wonderland
+Quercus
+56
+2
+1
+Holmes
+Northanger Abbey
+Mariner Books
+827
+3
+3
+2
+Peterson
+The Miraculous Journey of Edward Tulane
+Disney Publishing Worldwide
+789
+2
+1
+Orwell
+Emily Bronte
+Ecco Press
+376
+2
+2
+Balzac
+Wuthering Heights
+Scribner
+941
+3
+13
+1
+Wright
+The Tale of Despereaux
+Hachette Book Group
+751
+1
+Retail
+0
+1
+1552
+Evans
+A Christmas Carol
+Pearson Education
+123
+1
+Insurance
+1
+1
+1622
+Johnson
+Gone with the Wind
+Viking Press
+339
+3
+16
+2
+Davidson
+Potter and the Sorcerer's Stone
+Gollancz
+986
+3
+15
+1
+Walker
+1984
+Usborne Publishing
+511
+3
+15
+1
+Murakami
+The Secret Life of Bees
+Grove Weidenfeld
+311
+1
+Aerospace
+1
+0
+1805
+Austen
+1984
+Penguin Random House
+832
+3
+15
+1
+Shakespeare
+Potter and the Philosopher's Stone
+Windmill Books
+516
+1
+Construction
+1
+1
+1672
+Manning
+Dracula
+Puffin Books
+174
+3
+15
+2
+Myers
+Gateway
+Thomas Nelson
+636
+2
+1
+Hawkins
+The Call of the Wild
+St. Martin's Press
+979
+2
+3
+Dickens
+The Scarlet Letter
+Harper Voyager
+558
+2
+3
+Smith
+The Old Man and the Sea
+Windmill Books
+215
+2
+1
+Kim
+Potter and the Deathly Hallows
+Simon & Schuster
+439
+2
+2
+Cervantes
+The Secret Garden
+Melville House Publishing
+188
+2
+2
+Ward
+Fahrenheit 451
+Mira Books
+27
+1
+Pharmaceutical
+1
+1
+1668
+Poe
+Great Expectations
+Scribner
+733
+3
+15
+1
+Orwell
+Next
+Puffin Books
+242
+2
+1
+Wilde
+It
+Dutton Books
+924
+2
+1
+Wilson
+A Midsummer Night's Dream
+Houghton Mifflin
+373
+1
+Logistics
+1
+0
+2006
+Norton
+The Egypt Game
+Picador
+830
+1
+Manufacturing
+0
+0
+1548
+Simon
+Jane Eyre
+Piatkus
+197
+1
+Food and Beverage
+0
+0
+1998
+Rogers
+The Stand
+Oxford University Press
+850
+2
+1
+Russell
+Mark Twain
+Wiley
+907
+2
+2
+Snyder
+The View from Saturday
+Grand Central Publishing
+250
+2
+2
+May
+The Call of the Wild
+Wiley
+369
+1
+Telecom
+0
+1
+1693
+Melville
+The War of the Worlds
+Macmillan Publishers
+180
+2
+1
+Jackson
+Potter and the Half-Blood Prince
+Workman Publishing
+344
+1
+Energy
+0
+0
+1622
+Gutierrez
+The Secret Garden
+Wiley
+677
+3
+2
+1
+Pushkin
+Snow Crash
+Grove Atlantic
+771
+3
+11
+1
+Cassidy
+A Christmas Carol
+Workman Publishing
+428
+3
+14
+2
+Swift
+The Egypt Game
+Anchor Books
+377
+1
+Hospitality
+1
+0
+1903
+Verne
+Potter and the Deathly Hallows
+Tor Teen
+126
+1
+Education
+0
+1
+1651
+Conrad
+The Adventures of Huckleberry Finn
+Quirk Books
+187
+3
+10
+1
+Reed
+The Sound and the Fury
+Usborne Publishing
+650
+3
+18
+2
+Drake
+The Adventures of Huckleberry Finn
+St. James Press
+22
+3
+3
+1
+Nabokov
+Ringworld
+Hodder & Stoughton
+661
+1
+Telecommunications
+1
+0
+1850
+Murphy
+I, Robot
+Sourcebooks
+17
+2
+3
+Dostoevsky
+War and Peace
+Harper Perennial
+800
+1
+Information Technology
+1
+0
+1791
+Turgenev
+The Westing Game
+MacLehose Press
+799
+2
+1
+Dolan
+The Picture of Dorian Gray
+Sourcebooks
+84
+1
+Consulting
+0
+1
+1616
+Eliot
+Treasure Island
+Vintage Books
+457
+3
+7
+2
+Chekhov
+Sense and Sensibility
+Grove Atlantic
+407
+3
+2
+2
+Ward
+The Adventures of Sherlock Holmes
+St. James Press
+996
+1
+Renewable Energy
+1
+0
+2019
+Rivera
+Brave New World
+Faber & Faber
+777
+2
+1
+Stendhal
+The Metamorphosis
+Melville House Publishing
+574
+3
+10
+2
+Rivera
+Charlotte Bronte
+Houghton Mifflin Harcourt
+913
+2
+3
+Jefferson
+The Alchemist
+Sourcebooks
+902
+1
+Real Estate
+0
+0
+1542
+Conrad
+The Iliad
+Macmillan Publishers
+73
+1
+Legal
+0
+0
+1720
+Drake
+Neuromancer
+Faber and Faber
+859
+3
+17
+1
+Jackson
+The Picture of Dorian Gray
+Piatkus
+518
+2
+2
+Wilde
+Ringworld
+Windmill Books
+139
+1
+Healthcare
+1
+0
+1814
+Camus
+A Canticle for Leibowitz
+Viking Press
+402
+3
+7
+2
+Joyce
+Animal Farm
+Quirk Books
+477
+1
+Food and Beverage
+1
+0
+1566
+Simon
+Matilda
+Norton Publishing
+758
+2
+2
+Manning
+The Call of the Wild
+Roaring Brook Press
+831
+3
+9
+2
+Jackson
+Neuromancer
+Headline Publishing Group
+268
+2
+1
+Murphy
+The Color Purple
+Houghton Mifflin
+653
+2
+3
+Melville
+Fahrenheit 451
+Usborne Publishing
+81
+2
+1
+Richardson
+The Grapes of Wrath
+Vintage Classics
+616
+3
+3
+2
+Aristotle
+The Thorn Birds
+Scholastic Corporation
+426
+3
+10
+1
+Spencer
+A Tale of Two Cities
+Norton Publishing
+893
+1
+Logistics
+1
+1
+1681
+Wilde
+The Hobbit
+Bloomsbury Publishing
+844
+3
+7
+1
+Manning
+The Da Vinci Code
+Knopf Doubleday Publishing Group
+260
+3
+16
+1
+Jefferson
+Alice's Adventures in Wonderland
+Harlequin Enterprises
+118
+2
+2
+Davidson
+A Wrinkle in Time
+Viking Press
+833
+2
+1
+Woolf
+Another Roadside Attraction
+Windmill Books
+42
+2
+3
+Hesse
+The Old Man and the Sea
+Penguin Books
+531
+2
+1
+Rodriguez
+Roll of Thunder, Hear My Cry
+Del Rey Books
+932
+3
+15
+2
+Hernandez
+Gateway
+Bloomsbury Academic
+415
+2
+2
+Goethe
+A Christmas Carol
+William Morrow
+60
+1
+Music
+1
+0
+1536
+Davidson
+A Passage to India
+Disney Publishing Worldwide
+522
+3
+18
+1
+Peterson
+The Thorn Birds
+Penguin Press
+326
+3
+4
+1
+Perez
+Mark Twain
+Mariner Books
+436
+3
+15
+1
+Wells
+One Hundred Years of Solitude
+Viking Press
+151
+2
+2
+Morales
+Little Women
+HarperFestival
+342
+2
+1
+Rogers
+Do Androids Dream of Electric Sheep?
+Cambridge University Press
+497
+1
+Information Technology
+0
+1
+1716
+Gogol
+David Copperfield
+HarperCollins
+497
+1
+Advertising
+1
+1
+1745
+Dante
+The Chronicles of Narnia
+Penguin Books
+117
+3
+1
+2
+Verne
+The Adventures of Sherlock Holmes
+Avon Books
+882
+3
+14
+2
+Gaiman
+Twilight
+Melville House Publishing
+440
+2
+2
+Cooper
+The Girl Who Kicked the Hornet's Nest
+Allen Lane
+383
+1
+Healthcare
+1
+0
+1909
+Reed
+Matilda
+Hachette Book Group
+467
+1
+Aerospace
+1
+1
+1787
+Gogol
+The Time Machine
+Chronicle Books
+304
+3
+10
+2
+Aristotle
+The BFG
+Zondervan
+752
+1
+Advertising
+1
+1
+1736
+Wilson
+To Kill a Mockingbird
+Wiley
+933
+1
+Sports
+1
+0
+1556
+Evans
+Emma
+Dark Horse Comics
+101
+1
+Media
+1
+1
+1926
+Dante
+Fifty Shades of Grey
+Vintage Classics
+781
+2
+2
+Webb
+Congratualtions
+Tor Teen
+4
+3
+15
+1
+Shelley
+Brave New World
+Tor Teen
+613
+1
+Fashion
+1
+0
+1717
+Homer
+The Giver
+Penguin Essentials
+629
+1
+Information Technology
+1
+1
+1579
+Walker
+The Graveyard Book
+Knopf Doubleday Publishing Group
+396
+3
+12
+1
+Rivera
+The Hunger Games
+Scribner
+816
+2
+2
+Schmidt
+A Passage to India
+Bloomsbury Children's Books
+268
+1
+Legal
+0
+0
+1616
+Patel
+To Kill a Mockingbird
+Harper Voyager
+367
+3
+3
+2
+Jackson
+The Old Man and the Sea
+William Morrow
+704
+3
+1
+2
+Barr
+The Kite Runner
+Faber and Faber
+486
+2
+1
+Garza
+A Thousand Splendid Suns
+Dutton Books
+883
+3
+1
+2
+Rodriguez
+Around the World in Eighty Days
+Quercus
+776
+1
+Pharmaceutical
+0
+0
+1623
+Swift
+Louisa May Alcott
+Penguin Essentials
+656
+3
+11
+2
+Bronte
+The Scarlet Letter
+Harper Voyager
+812
+1
+Hospitality
+1
+0
+1853
+Hudson
+Potter and the Prisoner of AzkabanVintage Classics
+Mariner Books
+411
+1
+Pharmaceutical
+0
+0
+2005
+Jones
+Fahrenheit 451
+Ecco Press
+190
+2
+3
+Rice
+I, Robot
+HarperFestival
+683
+2
+3
+Plato
+The Adventures of Tom Sawyer
+Penguin Random House
+114
+2
+2
+Williams
+Wuthering Heights
+Bloomsbury Children's Books
+42
+2
+2
+Turgenev
+The Golden Compass
+Pan Macmillan
+575
+3
+14
+2
+Plato
+Mark Twain
+Houghton Mifflin
+926
+3
+11
+2
+Wilde
+War and Peace
+William Morrow
+679
+3
+4
+1
+Miller
+Potter and the Philosopher's Stone
+Faber and Faber
+647
+1
+Technology
+1
+0
+1792
+Jackson
+Lolita
+Norton Publishing
+839
+2
+2
+Hernandez
+Potter and the Order of the Phoenix
+Penguin Classics
+315
+1
+Entertainment
+1
+1
+1865
+Hall
+Persuasion
+Cambridge University Press
+880
+1
+Transportation
+0
+0
+1590
+Dumas
+The Turn of the Screw
+Anchor Books
+194
+3
+10
+1
+Drake
+Nineteen Eighty-Four
+Grove Weidenfeld
+364
+3
+4
+1
+Williams
+The Picture of Dorian Gray
+Hogarth
+671
+3
+17
+2
+Aristotle
+Congratualtions
+Penguin Essentials
+778
+3
+17
+2
+Barr
+The Lord of the Rings
+Mariner Books
+221
+3
+14
+1
+Snyder
+Potter and the Half-Blood Prince
+HarperOne
+831
+1
+Fashion
+0
+1
+1693
+Plato
+The Hunger Games
+Grove Weidenfeld
+482
+3
+2
+2
+Nelson
+Prey
+Gallery Books
+657
+2
+2
+Wilde
+The Grapes of Wrath
+William Morrow
+818
+1
+Consulting
+0
+1
+1561
+Jefferson
+The Fault in Our Stars
+Dark Horse Comics
+19
+1
+Pharmaceutical
+0
+0
+2007
+Swift
+The Wonderful Wizard of Oz
+Wiley
+861
+3
+14
+2
+Dumas
+The Grapes of Wrath
+Harper Perennial
+805
+3
+6
+1
+Stewart
+The Fault in Our Stars
+Grove Weidenfeld
+499
+2
+1
+Camus
+A Wrinkle in Time
+Scholastic Corporation
+263
+3
+16
+2
+Mason
+Oliver Twist
+Vintage Classics
+514
+1
+Consulting
+0
+0
+2009
+Reyes
+The Egypt Game
+Mira Books
+854
+2
+2
+Orwell
+A Midsummer Night's Dream
+MacLehose Press
+165
+3
+17
+2
+Gutierrez
+Do Androids Dream of Electric Sheep?
+Del Rey Books
+532
+2
+3
+Hernandez
+The Adventures of Tom Sawyer
+Dark Horse Comics
+103
+2
+2
+Sullivan
+Dune
+Anchor Books
+354
+3
+13
+2
+London
+A Canticle for Leibowitz
+Puffin Books
+145
+2
+2
+O'Connor
+The Handmaid's Tale
+HarperCollins Children's Books
+418
+1
+Telecommunications
+1
+1
+1924
+Amir
+Charlotte's Web
+Thomas Nelson
+511
+2
+3
+Martinez
+Hamlet
+Faber and Faber
+318
+2
+2
+Goethe
+American Gods
+Picador
+113
+3
+18
+2

@@ -1,0 +1,17 @@
+#ifndef CONSTANTS_H
+#define CONSTANTS_H
+
+#define MAX_LEN_STR 30
+#define MAX_LEN_INDUSTRY 30
+#define MAX_LEN_AUTHOR 15
+#define MAX_LEN_TITLE 40
+#define MAX_LEN_PUBLISH 35
+#define MAX_PAGES 10000
+
+#define ERROR_INPUT_STRUCT 1
+#define ERROR_ADD 2
+#define ERROR_INPUT_FIRST 3
+#define ERROR_INPUT_SECOND 4
+#define ERROR_MUL 5
+
+#endif
