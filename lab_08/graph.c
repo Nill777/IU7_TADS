@@ -7,14 +7,7 @@ unsigned long long get_time()
     clock_gettime(CLOCK_REALTIME, &mt1);
     return 1000000 * mt1.tv_sec + mt1.tv_nsec / 1000;
 }
-// unsigned long long cur_ns_gettimeofday(void)
-// {
-// 	struct timeval timeval;
-// 	gettimeofday(&timeval, NULL);
-// 	return (timeval.tv_sec * 1000000000 + timeval.tv_usec * 1000);
-// }
 
-// +
 int read_graph_from_file(graph_t *dst, const char *path_src)
 {
     FILE *f;
@@ -28,53 +21,22 @@ int read_graph_from_file(graph_t *dst, const char *path_src)
     fclose(f);
     return 0;
 }
-// +
-// int is_graph_connected(graph_t *a)
-// {
-//     int visited[a->size], queue[a->size];
-//     size_t i, count = 1;
-//     int front = -1, 
-//         rear = -1,
-//         current_node;
 
-//     for (i = 0; i < a->size; i++)
-//         visited[i] = 0;
-
-//     visited[0] = 1;
-//     queue[++rear] = 0;
-
-//     while (front != rear)
-//     {
-//         current_node = queue[++front];
-//         for (i = 0; i < a->size; i++)
-//             if (a->matrix[current_node][i] == 1 && visited[i] == 0)
-//             {
-//                 visited[i] = 1;
-//                 queue[++rear] = i;
-//                 count++;
-//             }
-//     }
-
-//     if (count == a->size)
-//         return 1;
-
-//     return 0;
-// }
 void DFS(graph_t *a, bool visited[], int current) {
-    visited[current] = true;  // Помечаем текущую вершину как посещенную
+    visited[current] = true;
     for (size_t i = 0; i < a->size; i++)
-        if (a->matrix[current][i] == 1 && !visited[i])// Проверяем, есть ли связь и не была ли вершина посещена
-            DFS(a, visited, i);  // Рекурсивно выполняем поиск для смежной вершины
+        if (a->matrix[current][i] == 1 && !visited[i])
+            DFS(a, visited, i);
 }
 int is_graph_connected(graph_t *a) {
     bool visited[a->size];
     for (size_t i = 0; i < a->size; i++)
         visited[i] = false;
-    DFS(a, visited, 0); // Начинаем поиск с первой вершины
+    DFS(a, visited, 0);
     for (size_t i = 0; i < a->size; i++)
         if (!visited[i])
-            return 0; // Если есть непосещенные вершины, то граф не связан
-    return 1; // Иначе граф связан
+            return 0;
+    return 1;
 }
 // +
 void export_to_dot(FILE *f, const char *graph_name, graph_t *a)
@@ -168,13 +130,8 @@ int minimum_spanning_tree(graph_t *g)
         }
     }
 
-    // // Выводим остовное дерево
-    // printf("Остовное дерево минимальной стоимости:\n");
-    // printf("Ребро   Вес\n");
-
     for (i = 1; i < g->size; i++)
     {
-        // printf("%d - %d   %d\n", parent[i], i, cost[i]);
         minCost += cost[i];
     }
 
